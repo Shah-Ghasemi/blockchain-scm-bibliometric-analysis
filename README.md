@@ -27,7 +27,7 @@ The project focuses on:
 🎯 Research Scope
 
 - Domain: Blockchain in Supply Chain Management
-- Timeframe: 2015–2025
+- Timeframe: [2015–2025](results/Main_Information.JPG)
 - Data Sources: Scopus and Web of Science
 - Approach: Bibliometric analysis and science mapping
 
@@ -79,14 +79,14 @@ data/
  └── filtered/         # Refined dataset used for analysis  
 
 code/  
- └── data_merging.R    # R script for merging and preprocessing
+ └── data_merging.R    # [R script for merging and preprocessing](code/data_merging.R)
 
 results/  
  └── figures/          # Bibliometric visualizations (no interpretation)
 
 methodology/  
- ├── prisma-data-collection-workflow.png  
- └── prisma-description.md
+ ├── [prisma-data-collection-workflow](Methodology/prisma-data-collection-workflow.png)  
+ └── [prisma-description](Methodology/prisma-description.md)
 
 ---
 
