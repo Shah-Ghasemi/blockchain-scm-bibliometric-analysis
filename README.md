@@ -51,8 +51,8 @@ A visual representation of the workflow is provided below:
 
 "PRISMA Workflow" (methodology/prisma-data-collection-workflow.png)
 
-For additional details, see:
-"methodology/prisma-description.md"
+For additional details, see:  
+[PRISMA methodology documentation](methodology/prisma-description.md)
 
 ---
 
@@ -75,8 +75,8 @@ Tools used:
 🗂️ Repository Structure
 
 data/
- ├── processed/        # General merged dataset
- └── filtered/         # Refined dataset used for analysis
+ ├── processed/        # General merged dataset  
+ └── filtered/         # Refined dataset used for analysis  
 
 code/
  └── data_merging.R    # R script for merging and preprocessing
@@ -110,6 +110,7 @@ The repository includes selected bibliometric visualizations:
 - Trend topic analysis
 
 «These outputs are presented without full interpretation to preserve the integrity of ongoing research.»
+In addition, a conceptual evolutionary framework was developed based on the bibliometric findings. The full model and its theoretical contributions are not disclosed at this stage due to the ongoing peer review process.
 
 ---
 
