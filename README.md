@@ -1,11 +1,11 @@
 Blockchain Supply Chain Evolution: A Bibliometric Analysis Pipeline
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Status](https://img.shields.io/badge/status-under_review-orange)
-![Method](https://img.shields.io/badge/method-bibliometric_analysis-green)
-![Tool](https://img.shields.io/badge/tool-R-informational)
-![Framework](https://img.shields.io/badge/framework-PRISMA-lightgrey)
-![Reproducibility](https://img.shields.io/badge/reproducible-yes-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)  
+![Status](https://img.shields.io/badge/status-under_review-orange)  
+![Method](https://img.shields.io/badge/method-bibliometric_analysis-green)  
+![Tool](https://img.shields.io/badge/tool-R-informational)  
+![Framework](https://img.shields.io/badge/framework-PRISMA-lightgrey)  
+![Reproducibility](https://img.shields.io/badge/reproducible-yes-brightgreen)  
 ![Data](https://img.shields.io/badge/data-Scopus%20%7C%20WoS-blueviolet)
 
 ---
