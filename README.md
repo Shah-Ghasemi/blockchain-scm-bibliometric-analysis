@@ -68,7 +68,11 @@ The dataset was constructed through a structured workflow:
 
 Tools used:
 
-- 
+- RStudio
+
+- Bilioometrix/Biblioshiny
+
+- Excel
 
 ---
 
@@ -108,6 +112,7 @@ The repository includes selected bibliometric visualizations:
 - Co-occurrence networks
 - Thematic maps
 - Trend topic analysis
+- Thematic Evaluation 
 
 «These outputs are presented without full interpretation to preserve the integrity of ongoing research.»
 In addition, a conceptual evolutionary framework was developed based on the bibliometric findings. The full model and its theoretical contributions are not disclosed at this stage due to the ongoing peer review process.
