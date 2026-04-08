@@ -74,18 +74,18 @@ Tools used:
 
 🗂️ Repository Structure
 
-data/
+data/  
  ├── processed/        # General merged dataset  
  └── filtered/         # Refined dataset used for analysis  
 
-code/
+code/  
  └── data_merging.R    # R script for merging and preprocessing
 
-results/
+results/  
  └── figures/          # Bibliometric visualizations (no interpretation)
 
-methodology/
- ├── prisma-data-collection-workflow.png
+methodology/  
+ ├── prisma-data-collection-workflow.png  
  └── prisma-description.md
 
 ---
