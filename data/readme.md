@@ -1,0 +1,1 @@
+This file contains two merged datasets from Scopus and Wos. One file contains the merge of the general output from the two databases and the other is the merge of the refined output based on citation and relevance.
