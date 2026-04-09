@@ -89,7 +89,7 @@ results/
  └── figures/          # Bibliometric visualizations (no interpretation)
 
 methodology/  
- ├── [prisma-data-collection-workflow](Methodology/prisma-data-collection-workflow.png)  
+ ├── [prisma-data-collection-workflow](Methodology/prisma-data-collection-workflow.jpg)  
  └── [prisma-description](Methodology/prisma-description.md)
 
 ---
