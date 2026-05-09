@@ -70,7 +70,7 @@ Tools used:
 
 - RStudio
 
-- Bilioometrix/Biblioshiny
+- Bibliometrix/Biblioshiny
 
 - Excel
 
@@ -101,10 +101,14 @@ Two processed datasets are provided:
 - General Dataset: Integrated records from Scopus and Web of Science
 - Filtered Dataset: Refined subset used for bibliometric analysis
 
-«Note: These datasets are derived and modified versions of original database exports. Sensitive fields (e.g., abstracts, keywords) have been removed to comply with data usage policies.»
+«Note: The shared datasets are processed and modified versions of the original database exports. Proprietary metadata fields, including abstracts and author keywords, have been excluded to comply with Scopus and Web of Science data usage policies.»
 
 ---
+📄 Data Availability
 
+Processed bibliometric data and the data integration workflow used in this study are available in a public GitHub repository. Due to licensing restrictions from Scopus and Web of Science, complete raw records including abstracts and author keywords are not publicly shared.
+
+---
 📈 Results (Partial Outputs)
 
 The repository includes selected bibliometric visualizations:
